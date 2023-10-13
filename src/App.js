@@ -1,6 +1,6 @@
 import React from 'react';
 import PokemonCard from './PokemonCard';
-import styles from './App.css'
+import './App.css'
 
 const pokemonNames = ['bulbasaur', 'ivysaur', 'venusaur', 'metapod', 'butterfree', 'weedle'];
 
