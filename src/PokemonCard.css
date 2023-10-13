@@ -1,0 +1,23 @@
+.pokemon-card {
+  background: #b3e0f2;
+  margin-right: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  width: 200px;
+  height: 90px;
+  display: flex;
+  text-align: center;
+  align-content: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6);
+}
+
+.pokemon-card img {
+  max-width: 80px;
+  max-height: 80px;
+  align-self: center;
+}
+
+.pokemon-card p {
+  font-size: 20px;
+  align-self: center;
+}
